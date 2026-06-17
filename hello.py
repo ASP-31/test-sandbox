@@ -8,3 +8,5 @@ class Calculator:
                     if item.quantity > 0:
                         total += item.price * item.quantity
         return total
+print("hello world")
+print("hello world")
